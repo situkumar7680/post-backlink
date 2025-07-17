@@ -93,4 +93,33 @@ How to Choose the Right Guest Post Website
 ------------------------------------------
 
 Not all websites that accept guest posts are equal in value. To get the most out of your
+Guest Post Sites Information
+============================
+
+.. list-table:: Guest Post Platforms and Metrics
+   :widths: 25 10 10 25 10
+   :header-rows: 1
+
+   * - Website
+     - DA
+     - PA
+     - Contact
+     - Pricing ($)
+   * - Atespost.com 🌐
+     - 53 🏅
+     - 44 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+     - $30 💰
+   * - sites.google.com 🌐
+     - 96 🏅
+     - 85 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+     - $80 💰
+   * - medium.com 🌐
+     - 95 🏅
+     - 90 📊
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+     - $75 💰
+   * - i*
+
 
