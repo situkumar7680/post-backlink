@@ -24,57 +24,71 @@ Guest Post Sites Information
 ============================
 
 .. list-table:: Guest Post Platforms and Metrics
-   :widths: 25 10 10 25
+   :widths: 25 10 10 10 25
    :header-rows: 1
 
    * - Website
      - DA
      - PA
+     - Pricing ($)
      - Contact
    * - Atespost.com 🌐
      - 53 🏅
      - 44 📊
+     - $99 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - sites.google.com 🌐
      - 96 🏅
      - 85 📊
+     - $399 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - medium.com 🌐
      - 95 🏅
      - 90 📊
+     - $75 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - issuu.com 🌐
      - 93 🏅
      - 86 📊
+     - $499 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - github.com 🌐
      - 98 🏅
      - 92 📊
+     - $399 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - adobe.com 🌐
      - 97 🏅
      - 91 📊
+     - $399 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - wordpress.com 🌐
      - 94 🏅
      - 88 📊
+     - $599 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - wix.com 🌐
      - 89 🏅
      - 80 📊
+     - $499 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - weebly.com 🌐
      - 85 🏅
      - 79 📊
+     - $399 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - blogger.com 🌐
      - 91 🏅
      - 84 📊
+     - $299 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - tumblr.com 🌐
      - 90 🏅
      - 83 📊
+     - $299 💰
      - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+
+
 
 Benefits of Guest Post Backlinks
 --------------------------------
@@ -93,33 +107,5 @@ How to Choose the Right Guest Post Website
 ------------------------------------------
 
 Not all websites that accept guest posts are equal in value. To get the most out of your
-Guest Post Sites Information
-============================
-
-.. list-table:: Guest Post Platforms and Metrics
-   :widths: 25 10 10 25 10
-   :header-rows: 1
-
-   * - Website
-     - DA
-     - PA
-     - Contact
-     - Pricing ($)
-   * - Atespost.com 🌐
-     - 53 🏅
-     - 44 📊
-     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
-     - $30 💰
-   * - sites.google.com 🌐
-     - 96 🏅
-     - 85 📊
-     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
-     - $80 💰
-   * - medium.com 🌐
-     - 95 🏅
-     - 90 📊
-     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
-     - $75 💰
-   * - i*
 
 
